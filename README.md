@@ -1,5 +1,5 @@
 ## vgchartz-weekly-archives
-This project consists of a set of Python scripts to scrape weekly video game sales data from VGChartz.
+This project consists of a set of Python scripts to scrape weekly video game sales data from the VGChartz weekly archives.
 
 ## Files
 main.py: The main script that orchestrates the scraping process.
